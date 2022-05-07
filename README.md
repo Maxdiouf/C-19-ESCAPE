@@ -20,7 +20,7 @@ Puis double cliquez sur le fichier Rpg.<br/>
 ## Equipe
 
 - [Vitomir LACES](https://github.com/vitolinho) 
-- [Alex GUIRO]
+- [Alex GUIRO](https://github.com/alexoo1)
 - [Maguette DIOUF]
 - [Abderame DIARRA]
 - [Yaya FANE]
