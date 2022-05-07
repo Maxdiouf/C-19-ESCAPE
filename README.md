@@ -30,8 +30,8 @@ Puis double cliquez sur le fichier Rpg.<br/>
 
 -  Menu (lancer une partie, quitter, voir les crédits, voir les règles du jeu).
 -  Possibilité de déplacer le héro de case en case.
--  Le déplacement se fait via les tcommandes: "nord", "sud", "est", "ouest" . 
--  Des objets sont nécessaires pour accèder dans certaines zones sinon on meurt contre les maladies. 
+-  Le déplacement se fait via les commandes: "nord", "sud", "est", "ouest" . 
+-  Des objets sont nécessaires pour battre des maladies sinon on meurt et la partie est finie.
 -  Nous rencontrons un personnage non-joueur (pnj).
 -  Lors de cette rencontre une texte s'affiche pour présenter quelque-chose. 
 -  Création d'un inventaire qu'on affiche.
