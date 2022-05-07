@@ -29,6 +29,7 @@ Puis double cliquez sur le fichier Rpg.<br/>
 ## Fonctionnalités
 
 -  Menu (lancer une partie, quitter, voir les crédits, voir les règles du jeu).
+-  Donner un nom à notre personnage avant de commencer la partie.
 -  Possibilité de déplacer le héro de case en case.
 -  Le déplacement se fait via les commandes: "nord", "sud", "est", "ouest" . 
 -  Des objets sont nécessaires pour battre des maladies sinon on meurt et la partie est finie.
