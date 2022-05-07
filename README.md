@@ -18,7 +18,7 @@ Puis double cliquez sur le fichier Rpg.<br/>
 - Apprendre à travailler en équipe en échangeant des versions de codes et les intégrer harmonieusement. 
 
 ## Equipe
-- [Vitomir LACES](https://github.com/vitolihno) 
+- [Vitomir LACES](https://github.com/vitolinho) 
 - [Alex GUIRO]
 - [Maguette DIOUF]
 - [Abderame DIARRA]
