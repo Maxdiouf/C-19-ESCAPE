@@ -8,8 +8,8 @@ Dans le cadre du cours de python dans notre [école](https://www.hetic.net/), no
 
 ## Lancer le jeu
 
-Double cliquez sur le dossier game.<br/>
-Puis double cliquez sur le fichier Rpg.<br/> 
+Double cliquez sur le dossier game<br/>
+Puis double cliquez sur le fichier Rpg.py<br/> 
 
 ## Objectifs du projet
 
