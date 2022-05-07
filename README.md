@@ -1,38 +1,31 @@
 ### <p align="center"> Projet Rpg textuel en Python • C19-Adventure</p>
 
-Dans le cadre du cours de front-end dans notre [école](https://www.hetic.net/), nous avons eu à réaliser un jeu RPG.<br/>
-La consigne était que nous ne devions utiliser que le HTML/CSS et vanilla Javascript sans aucune autre technologie impliquée.<br/>
 
-Nous avons donc créé un jeu avec un scénario qui met en avant l'éco-responsabilité.<br/> 
-Le mot "Mirror" est à comprendre ainsi: la planète du jeu est le miroir de la nôtre dans cent ans.<br/>
 
-Le GIEC a publié un rapport important et nous voulons contribuer à l'éveil des consciences sur l'éco-responsabilité.<br/> 
-Nous avons donc, en plus d'un but pédagogique, le but de passer un message qui fait sens.<br/>
 
-## Installation
+Dans le cadre du cours de python dans notre [école](https://www.hetic.net/), nous avons eu à réaliser un jeu RPG textuel.<br/>
 
-Cliquez sur le lien du titre "Eco-Mirror' pour jouer directement.<br/>
-Importer le zip du github et installer les fichiers dans votre environnement local de développement.<br/> 
+
+## Pour lancer le jeu
+
+Double cliquez sur le dossier RPG.<br/>
+Puis double cliquez sur le fichier Rpg.<br/> 
 
 ## Objectifs du projet
 
-- Renforcer nos compétences en front sur les langages HTML / CSS / Javascript.
+- Créer un jeu Rpg au tour par tour sur console à l'aide de Python.
+- Appliquer tous ce qu'on nous a appris en 2/3 mois de programmation.
 - Apprendre à travailler en équipe en échangeant des versions de codes et les intégrer harmonieusement. 
-- Passer un message sur l'éco-responsabilité.
 
 ## Equipe
-- [Amaury FRANSSEN](https://github.com/ExploryKod) 
-- [Farmata SIDIBE](https://github.com/Farmata-sidibe)
-- [Alex Rahim Guiro](https://github.com/alexoo1)
-- [Sorelle Moukalla](https://github.com/MklSorelle)
-- [Ewan Questier](https://github.com/xWane)
-- [Vitomir Laces](https://github.com/vitolinho)
-- [Victor Besson](https://github.com/Neoznzoe)
+- [Vitomir LACES](https://github.com/vitolihno) 
+- [Alex GUIRO]
+- [Maguette DIOUF]
+- [Abderame DIARRA]
+- [Yaya FANE]
+- [Abdoulaye DIOP]
 
 ## Fonctionnalités
-
-Nous avons décidé d'aller plus loin que ce que l'exercice nous impose.<br/>
-Nous proposons de remplacer le mode classique de combat par des jeux ludiques ou éducatifs.<br/>
 
 ### 1. fonctionnalités imposées
 -  Possibilité de déplacer le héro de zone en zone.
