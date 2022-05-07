@@ -22,7 +22,7 @@ def info():
     print("-"*50)
     print("""
     \x1b[4mVoici quelques informations à propos de la Carte:\x1b[0m
-    _ == il y a rien 
+    🌲 == il y a rien 
     X == Vous 
     $ == la sortie de la fôret 
     ! == une maladie /3
