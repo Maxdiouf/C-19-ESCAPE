@@ -28,13 +28,15 @@ Puis double cliquez sur le fichier Rpg.<br/>
 
 ## Fonctionnalités
 
--  Possibilité de déplacer le héro de zone en zone.
--  Le déplacement se fait via les touches du clavier. 
--  Des objets sont nécessaires pour passer dans certaines zones sinon on est bloqué. 
--  Nous rencontrons des personnages non-joueurs (pnj).
--  Lors de ces rencontres une texte s'affiche pour présenter quelque-chose. 
+-  Menu (lancer une partie, quitter, voir les crédits, voir les règles du jeu).
+-  Possibilité de déplacer le héro de case en case.
+-  Le déplacement se fait via les tcommandes: "nord", "sud", "est", "ouest" . 
+-  Des objets sont nécessaires pour accèder dans certaines zones sinon on meurt contre les maladies. 
+-  Nous rencontrons un personnage non-joueur (pnj).
+-  Lors de cette rencontre une texte s'affiche pour présenter quelque-chose. 
 -  Création d'un inventaire qu'on affiche.
-
+-  Combat contre des maladies et un boss final.
+-  Sauvegarde de notre partie où on a échoué à la partie précédente.
 
 ## Technologie utilisée
 
