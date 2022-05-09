@@ -21,10 +21,10 @@ Puis double cliquez sur le fichier Rpg.py<br/>
 
 - [Vitomir LACES](https://github.com/vitolinho) 
 - [Alex GUIRO](https://github.com/alexoo1)
-- [Maguette DIOUF]
-- [Abderame DIARRA]
-- [Yaya FANE]
-- [Abdoulaye DIOP]
+- [Maguette DIOUF](https://github.com/Maxdiouf)
+- [Abderame DIARRA](https://github.com/AbdeDev)
+- [Yaya FANE](https://github.com/layayance)
+- [Abdoulaye DIOP](https://github.com/layediop)
 
 ## Fonctionnalités
 
